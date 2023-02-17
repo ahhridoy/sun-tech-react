@@ -1,4 +1,4 @@
-## Note
+## useReducer Note
 1. install react app.
 2. install react router dom.
 3. set all routes and maintain folder structure.
